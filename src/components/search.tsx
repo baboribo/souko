@@ -24,7 +24,7 @@ const { locale } = useI18n(); // (optional) for i18n
   const { search, setSearch, query } = useDocsSearch({
     type: 'algolia',
     client,
-    indexName: 'document',
+    indexName: 'souko_yume_place_m8ududrtof_pages',
     locale,
   });
 
