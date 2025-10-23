@@ -1,0 +1,12 @@
+{
+    "title": "감정이 몰아치는 느낌",
+    "pages": [
+        "emotional",
+        "suspense",
+        "aggressive",
+        "manic",
+        "epic",
+        "menacing"
+    ],
+    "defaultOpen": false
+}
