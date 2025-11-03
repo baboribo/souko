@@ -10,7 +10,7 @@ export default function HomePage() {
           href="/docs/start"
           className="text-fd-foreground font-semibold underline"
         >
-          /docs/local
+          /docs/start
         </Link>{' '}
         에서 확인하실 수 있습니다.
       </p>
